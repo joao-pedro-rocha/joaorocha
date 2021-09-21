@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaorochapy
-- 👀 I’m interested in learn learning creative solutions with programming languages, especially python :)
+- 👀 I’m interested in learn creative solutions with programming languages, especially python :)
 - 🌱 I’m currently learning pynthon3 and django...
 - 💞️ I’m looking to collaborate on projects that help people in their daily
 - 📫 How to reach me: joaorocha.ar@gmail.com
